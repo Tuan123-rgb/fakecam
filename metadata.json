@@ -1,0 +1,6 @@
+{
+  "name": "Camera Ảo",
+  "description": "Ứng dụng giả lập camera chất lượng cao bằng video có sẵn. Hỗ trợ thay đổi nội dung chữ đè, bộ lọc hồng ngoại/màu sắc, tỷ lệ phóng to thu nhỏ và ghi hình trong thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
